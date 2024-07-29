@@ -1,10 +1,13 @@
-# AdvAdvertGeneralsCS2
+# AdvAdvertGeneral 
 General placeholders for AdvAdvert
 
 
-{IpPort} - Server's ip and port
 
-{Port} - Server's port
+Placeholders with examples:
+
+{IpPort} - Server's ip and port (127.0.0.1:27015)
+
+{Port} - Server's port (27015)
 
 {Servername} - Server hostname
 
