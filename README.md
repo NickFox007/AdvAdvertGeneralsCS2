@@ -1,9 +1,9 @@
-# AdvAdvertGeneral 
+# AdvAdvertGenerals
 General placeholders for AdvAdvert
 
 
 
-Placeholders with examples:
+# Placeholders with examples
 
 {IpPort} - Server's ip and port (127.0.0.1:27015)
 
